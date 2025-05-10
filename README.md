@@ -14,10 +14,10 @@ Aqui você encontrará todos os códigos desenvolvidos durante a monitoria, com 
 - 🔀 Estruturas condicionais `if`, `elif`, `else`
 - 🧰 Operadores aritméticos, lógicos e relacionais
 
-## 💡 Nosso objetivo
+## 💡 Objetivo
 
 Descomplicar a programação para quem está começando!  
-Queremos que você entenda **como pensar como um programador**, usando Python de forma intuitiva, com exemplos criativos e desafiadores.
+Entenda **como pensar como um programador**, usando Python de forma intuitiva, com exemplos criativos e desafiadores.
 
 ## 📬 Dúvidas ou sugestões?
 
